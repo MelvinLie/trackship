@@ -2,9 +2,9 @@
 *
 
 # But not these files...
-!/examples/
-!/track_c/
-!/trackship/
+!/examples/*
+!/track_c/*
+!/trackship/*
 !pyproject.toml
 !.gitignore
 !README.md
