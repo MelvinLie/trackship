@@ -1,10 +1,6 @@
-# Ignore everything
-*
-
-# But not these files...
-!/examples/*
-!/track_c/*
-!/trackship/*
-!pyproject.toml
-!.gitignore
-!README.md
+__pycache__
+poetry.lock
+*.npy
+*.txt
+*.csv
+*.gif
